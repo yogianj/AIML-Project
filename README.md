@@ -1,0 +1,2 @@
+# AIML-Project
+Pneumonia is an infection in one or both lungs Bacteria, viruses, and fungi causes it The infection causes inflammation in the air sacs in human lungs Detecting Pneumonia is possible through detecting inflammation of the lungs In this project, built an Pneumonia detection system through Deep learning algorithms to detect a visual signal for pneumonia in medical images Specifically, algorithms locates lung opacity on chest radio graphs
